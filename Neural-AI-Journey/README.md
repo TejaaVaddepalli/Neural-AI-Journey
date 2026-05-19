@@ -92,7 +92,7 @@ A working pipeline was built that:
 
 ## 📸 Sample Results
 
-![Prediction Output](output.png.md)
+![Prediction Output](./results/output.png)
 
 ---
 
